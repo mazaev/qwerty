@@ -45,5 +45,6 @@ group :development, :test do
   # My preloaders gems
   gem 'rspec-rails'
   gem 'spring-commands-rspec'
+  gem 'guard-rspec'
 end
 
